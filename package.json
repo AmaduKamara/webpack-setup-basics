@@ -1,0 +1,24 @@
+{
+  "name": "webpack-setup-basics",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaduKamara/webpack-setup-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaduKamara/webpack-setup-basics/issues"
+  },
+  "homepage": "https://github.com/AmaduKamara/webpack-setup-basics#readme",
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
